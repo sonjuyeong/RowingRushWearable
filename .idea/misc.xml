@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/btn_corner.xml" value="1.85" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/calendar_background.xml" value="0.8" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/calendar_not_select_background.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/calendar_select_background.xml" value="0.65" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/ic_baseline_edit_calendar_click.xml" value="0.853125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.325" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.853125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/ic_baseline_storage_24.xml" value="0.853125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/font/font.xml" value="1.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_announcement.xml" value="0.72" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_event_edit.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_event_view.xml" value="0.72" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_login.xml" value="0.7224669603524229" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_main.xml" value="0.8344827586206897" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_rancking6.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_ranking.xml" value="0.6" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_ranking3.xml" value="0.72" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_ranking5.xml" value="0.1296875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_register.xml" value="0.75625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_setting.xml" value="0.72" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_splash.xml" value="0.8" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_week_view.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/calendar_cell.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/event_cell.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/experimet.xml" value="0.75625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/ranking_cell.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/set_profiletext.xml" value="0.72" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/btn_corner.xml" value="0.103125" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/calendar_background.xml" value="0.103125" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/calendar_not_select_background.xml" value="0.1" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/calendar_select_background.xml" value="0.103125" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/ic_baseline_edit_calendar_click.xml" value="0.103125" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.103125" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/ic_baseline_person_24.xml" value="0.103125" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/ic_baseline_storage_24.xml" value="0.103125" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/drawable/ic_main_assignment_24.xml" value="0.1" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_announcement.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_distance.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_event_edit.xml" value="1.075" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_event_view.xml" value="0.37438423645320196" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_login.xml" value="1.075" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_ranking.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_ranking3.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_ranking5.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_register.xml" value="1.075" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_setting.xml" value="1.0" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_splash.xml" value="1.075" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/activity_week_view.xml" value="0.1" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/calendar_cell.xml" value="1.075" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/event_cell.xml" value="0.1" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/rank_calender.xml" value="0.9" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/ranking_cell.xml" value="1.075" />
+        <entry key="..\:/Users/wndud/AndroidStudioProjects/RowingRushWearable/wear/src/main/res/layout/set_profiletext.xml" value="1.075" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
